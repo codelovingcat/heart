@@ -1,5 +1,11 @@
 # Herz ❤️ — Animated Heart Experience
 
+
+Ürem Sancaktutan
+
+Commit mesajının sonundaki ortak yazar satırı:
+Co-authored-by: codelovingcat <36550960+codelovingcat@users.noreply.github.com>
+
 Herz is a small creative front-end project exploring how far **HTML, CSS, SVG, and vanilla JavaScript** can go when building a single, expressive visual experience.
 
 The goal is to create a large, rich crimson heart that feels dimensional and alive: it will breathe with a slow heartbeat, glow gently with each pulse, and subtly follow the viewer's pointer. The intended style is a polished, realistic-inspired anime illustration made from code rather than a static image.
